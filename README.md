@@ -1,6 +1,4 @@
 # Reverse Linked List II (problem from LeetCode)
-# 
-# 
 
   **Objective:** Write a function reverseBetween to reverse a singly linked list from position m to n. Do it in one-pass.
 
