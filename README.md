@@ -1,14 +1,16 @@
 # reverse-list-two
-a level up from reversing a linked list basics (problem from LeetCode)
+##*a level up from reversing a linked list basics (problem from LeetCode)*
+___
 
 
-https://leetcode.com/problems/reverse-linked-list-ii/
-92. Reverse Linked List II
+[92. Reverse Linked List II] (https://leetcode.com/problems/reverse-linked-list-ii/)
+
+[https://leetcode.com/problems/reverse-linked-list-ii/](https://leetcode.com/problems/reverse-linked-list-ii/)
 
 
 Reverse a linked list from position m to n. Do it in one-pass.
 
-Note: 1 ≤ m ≤ n ≤ length of list.
+- Note: 1 ≤ m ≤ n ≤ length of list.
 
 Example:
 
