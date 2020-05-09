@@ -13,7 +13,7 @@ function reverseBetween(head, m, n) {
     n--;
   }
 
-  // create pointers to re-link our sublist
+  // create pointers to (later) re-link our sublist
   const beforeM = previous;
   const newSubTail = curr;
 
